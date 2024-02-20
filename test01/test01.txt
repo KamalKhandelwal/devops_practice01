@@ -1,0 +1,2 @@
+total 0
+-rw-r--r-- 1 Kamal 197121 0 Feb 20 08:49 test01.txt
